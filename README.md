@@ -156,6 +156,7 @@ JTA предоставляет высокоуровневый интерфейс
 
 ## 9.
 _Веб-сервисы. Технологии JAX-RS и JAX-WS._
+
 [JAX-WS](http://en.wikipedia.org/wiki/Java_API_for_XML_Web_Services) -is Java API для XML-Based Web Services-стандартный способ разработки Web-сервисов в нотации [SOAP](http://en.wikipedia.org/wiki/SOAP) (Simple Object Access Protocol).
 
 Вызов веб-служб осуществляется с помощью удаленных вызовов процедур. Для обмена информацией между клиентом и веб-сервисом используется протокол SOAP. Обмен сообщениями между клиентом и сервером осуществляется через [XML](http://en.wikipedia.org/wiki/XML) - основанные SOAP сообщения.
@@ -193,6 +194,7 @@ _React JS. Архитектура и основные принципы разр�
 
 ## 15
 _Компоненты React. State & props. "Умные" и "глупые" компоненты._
+
 глупые компоненты:
 
 1.  не зависят от остальной части приложения, например Flux actions или stores
@@ -221,6 +223,7 @@ _Компоненты React. State & props. "Умные" и "глупые" ко�
 
 ## 16
 _Разметка страниц в React-приложениях. JSX._
+
 Это JSX — расширение языка JavaScript. Мы рекомендуем использовать его, когда требуется объяснить React, как должен выглядеть UI. JSX напоминает язык шаблонов, наделённый силой JavaScript.
 
 JSX производит «элементы» React. То, как элементы рендерятся в DOM, мы изучим в [следующей главе](/docs/rendering-elements.html), а ниже мы рассмотрим основы JSX, которые нужно знать начинающему.
@@ -230,49 +233,57 @@ React исходит из принципа, что логика рендери�
 React [можно использовать и без JSX](/docs/react-without-jsx.html), но большинство людей ценит его за наглядность при работе с UI, живущем в JavaScript-коде. Помимо этого, JSX помогает React делать сообщения об ошибках и предупреждениях понятнее.
 
 ## 17
+
 _Навигация в React-приложениях. ReactRouter._
+
 https://habr.com/ru/post/459434/
 
 ## 18
 _Управление состоянием интерфейса. Redux._
+
 https://tproger.ru/translations/redux-for-beginners/
 
 ## 19
 _Angular: архитектура и основные принципы разработки приложений._
-    ![arch](https://github.com/SunnyCapt/__pip__/raw/master/l4/arch.png)
-    
-    Для разработки нужно настроить сборочное окружение (на базе node.js и npm). Приложения состоят из модулей (NgModules). Модули обеспечивают контекст для компонентов (components). Из компонентов строятся представления (views). Компоненты взаимодействуют с сервисами (services) с помощью DI.
+
+![arch](https://github.com/SunnyCapt/__pip__/raw/master/l4/arch.png)
+
+Для разработки нужно настроить сборочное окружение (на базе node.js и npm). Приложения состоят из модулей (NgModules). Модули обеспечивают контекст для компонентов (components). Из компонентов строятся представления (views). Компоненты взаимодействуют с сервисами (services) с помощью DI.
+
 ## 20
 _Angular: модули, компоненты, сервисы и DI._
 
-    https://webdraftt.com/tutorial/angular-modules
-    
-    https://webdraftt.com/tutorial/angular-components
-    
-    https://webdraftt.com/tutorial/angular-services
-    
-    https://webdraftt.com/tutorial/dependency-injection
-    
-    https://habr.com/ru/post/434380/
+
+https://webdraftt.com/tutorial/angular-modules
+
+https://webdraftt.com/tutorial/angular-components
+
+https://webdraftt.com/tutorial/angular-services
+
+https://webdraftt.com/tutorial/dependency-injection
+
+https://habr.com/ru/post/434380/
     
 ## 21
 _Angular: шаблоны страниц, жизненный цикл компонентов, подключение CSS._
 
-    https://webdraftt.com/tutorial/angular-templates
-    
-    https://webdraftt.com/tutorial/component-lifecycle
-    
-    https://metanit.com/web/angular2/2.4.php
+
+https://webdraftt.com/tutorial/angular-templates
+
+https://webdraftt.com/tutorial/component-lifecycle
+
+https://metanit.com/web/angular2/2.4.php
     
 ## 22
 _Angular: клиент-серверное взаимодействие, создание, отправка и валидация данных форм._
 
-    https://webdraftt.com/tutorial/angular-http-client
-    
-    https://webdraftt.com/tutorial/angular-http-interceptor
-    
-    https://webdraftt.com/tutorial/angular-forms
-    
-    https://webdraftt.com/tutorial/angular-reactive-forms
-    
-    https://webdraftt.com/tutorial/forms-validation
+
+https://webdraftt.com/tutorial/angular-http-client
+
+https://webdraftt.com/tutorial/angular-http-interceptor
+
+https://webdraftt.com/tutorial/angular-forms
+
+https://webdraftt.com/tutorial/angular-reactive-forms
+
+https://webdraftt.com/tutorial/forms-validation
