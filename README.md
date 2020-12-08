@@ -178,3 +178,42 @@ React [можно использовать и без JSX](/docs/react-without-j
 
 ## 17. Навигация в React-приложениях. ReactRouter.
 https://habr.com/ru/post/459434/
+
+## 18. Управление состоянием интерфейса. Redux.
+https://tproger.ru/translations/redux-for-beginners/
+
+## 19. Angular: архитектура и основные принципы разработки приложений.
+    ![arch](arch.png)
+    
+    Для разработки нужно настроить сборочное окружение (на базе node.js и npm). Приложения состоят из модулей (NgModules). Модули обеспечивают контекст для компонентов (components). Из компонентов строятся представления (views). Компоненты взаимодействуют с сервисами (services) с помощью DI.
+## 20. Angular: модули, компоненты, сервисы и DI.
+
+    https://webdraftt.com/tutorial/angular-modules
+    
+    https://webdraftt.com/tutorial/angular-components
+    
+    https://webdraftt.com/tutorial/angular-services
+    
+    https://webdraftt.com/tutorial/dependency-injection
+    
+    https://habr.com/ru/post/434380/
+    
+## 21. Angular: шаблоны страниц, жизненный цикл компонентов, подключение CSS.
+
+    https://webdraftt.com/tutorial/angular-templates
+    
+    https://webdraftt.com/tutorial/component-lifecycle
+    
+    https://metanit.com/web/angular2/2.4.php
+    
+## 22. Angular: клиент-серверное взаимодействие, создание, отправка и валидация данных форм.
+
+    https://webdraftt.com/tutorial/angular-http-client
+    
+    https://webdraftt.com/tutorial/angular-http-interceptor
+    
+    https://webdraftt.com/tutorial/angular-forms
+    
+    https://webdraftt.com/tutorial/angular-reactive-forms
+    
+    https://webdraftt.com/tutorial/forms-validation
