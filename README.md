@@ -1,3 +1,5 @@
+[create an anchor](#1. Платформа Java EE. Спецификации и их реализации.)
+
 ## 1. Платформа Java EE. Спецификации и их реализации.  
 Набор спецификаций - см. 4 вопрос.  
 Реализации: GlassFish, WildFly, TomEE, IBM WebSphere и т.д.
@@ -183,7 +185,7 @@ https://habr.com/ru/post/459434/
 https://tproger.ru/translations/redux-for-beginners/
 
 ## 19. Angular: архитектура и основные принципы разработки приложений.
-    ![arch](arch.png)
+    ![arch](https://github.com/SunnyCapt/__pip__/raw/master/l4/arch.png)
     
     Для разработки нужно настроить сборочное окружение (на базе node.js и npm). Приложения состоят из модулей (NgModules). Модули обеспечивают контекст для компонентов (components). Из компонентов строятся представления (views). Компоненты взаимодействуют с сервисами (services) с помощью DI.
 ## 20. Angular: модули, компоненты, сервисы и DI.
